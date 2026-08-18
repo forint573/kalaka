@@ -221,6 +221,7 @@ Top of queue: **Karrot, Nextdoor, Coop, Buy Nothing.**
 | [cold-start.md](docs/product/cold-start.md) | The density playbook: steward model, recruit-supply-first, anchor institutions, the expansion gate |
 | [knowledge-layer.md](docs/product/knowledge-layer.md) | Generational transfer, elder capture, workshops, lineage, consent |
 | [global-channel.md](docs/product/global-channel.md) | Phase 2 export marketplace, shipping classes, reputation portability, shared dispatch |
+| [onboarding-and-motivation.md](docs/product/onboarding-and-motivation.md) | First-run copy, the six trust moments, the first-week arc, the intrinsic-motivation model and what is forbidden |
 | [expansion.md](docs/product/expansion.md) | The archetype filter, candidate communities, multi-tenancy, why Germany is later and harder |
 | [funding-and-governance.md](docs/product/funding-and-governance.md) | The four revenue lines, Merchant Pro boundaries, payments and the PSD2 correction, the adjacent-business separation, legal checklist |
 
